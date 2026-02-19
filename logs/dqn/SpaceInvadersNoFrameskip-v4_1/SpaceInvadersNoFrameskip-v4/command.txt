@@ -1,0 +1,1 @@
+C:\Users\Rew\anaconda3\envs\torch\python.exe -m rl_zoo3.train --algo dqn --env SpaceInvadersNoFrameskip-v4 -c C:\Users\Rew\Downloads\huggingFace\logs\dqn.yml -f C:\Users\Rew\Downloads\huggingFace\logs
